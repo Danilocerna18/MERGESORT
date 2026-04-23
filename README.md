@@ -1,3 +1,7 @@
+En la terminal en donde va a tener el archivo debes de poner este comando:
+git clone https://github.com/Danilocerna18/MERGESORT.git && cd MERGESORT && pip install pytest && pytest Unit_TEST.py
+
+
 
 Este módulo contiene la implementación del algoritmo *Merge Sort* junto con su respectivo archivo de pruebas unitarias. Merge Sort es un algoritmo de ordenamiento que utiliza la estrategia de divide y vencerás, lo que significa que divide el problema en partes más pequeñas, las resuelve y luego combina los resultados de forma ordenada.
 
